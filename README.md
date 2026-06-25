@@ -229,7 +229,7 @@ Otra decisión importante fue usar un canvas de **600 x 600 px** para mantener l
 
 ### Dificultades encontradas
 
-Otra dificultad fue crear distintas figuras usando la misma grilla de píxeles. Para lograrlo, se usaron diferentes condiciones matemáticas que definen qué puntos se dibujan y cómo se mueven.
+Una de las dificultades fue crear distintas figuras usando la misma grilla de píxeles. Para lograrlo, se usaron diferentes condiciones matemáticas que definen qué puntos se dibujan y cómo se mueven.
 
 También fue necesario ajustar la pantalla final para que la figura no tapara el texto.
 
