@@ -87,5 +87,5 @@ Visualmente, el proyecto se relaciona con imágenes generativas, visualizaciones
 
 ![Referencia1](Imagenesexamen/Referentes/referente1.gif)
 ![Referencia2](Imagenesexamen/Referentes/referente2.gif)
-![Referencia3](Imagenesexamen/Referentes/referente3.jpg)
-![Referencia4](Imagenesexamen/Referentes/referente4.mp4)
+![Referencia3](Imagenesexamen/Referentes/referente3.jpeg)
+
