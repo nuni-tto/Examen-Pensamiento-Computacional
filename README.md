@@ -219,7 +219,27 @@ Visualmente, el proyecto se relaciona con imágenes generativas, visualizaciones
 ![Progreso9](Imagenesexamen/Progreso/6.png)
 ![Progreso10](Imagenesexamen/Progreso/7.png)
 
+### Principales decisiones tomadas
 
+Una de las principales decisiones fue trabajar con una estética pixelada en blanco y negro. Esta decisión permitió construir una imagen clara usando elementos simples y repetitivos.
+
+También se decidió que la figura cambiara al hacer clic directamente sobre ella, para que la interacción fuera más directa. En vez de depender solo de botones, el usuario transforma el sistema desde la misma imagen.
+
+Otra decisión importante fue usar un canvas de **600 x 600 px** para mantener la composición ordenada y fácil de visualizar.
+
+### Dificultades encontradas
+
+Otra dificultad fue crear distintas figuras usando la misma grilla de píxeles. Para lograrlo, se usaron diferentes condiciones matemáticas que definen qué puntos se dibujan y cómo se mueven.
+
+También fue necesario ajustar la pantalla final para que la figura no tapara el texto.
+
+### Aprendizajes obtenidos
+
+A través de este proyecto aprendí a organizar un sistema interactivo usando estados, eventos, inputs y outputs.
+
+También aprendí a usar variables, condicionales, bucles, `map()` y `random()` para construir una experiencia visual dinámica. Además, comprendí cómo una figura compleja puede generarse a partir de elementos simples como pequeños cuadrados.
+
+El proyecto me permitió entender mejor cómo una lógica computacional puede transformarse en una propuesta visual interactiva.
 
 
 
