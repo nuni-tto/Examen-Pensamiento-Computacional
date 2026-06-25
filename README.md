@@ -5,7 +5,6 @@
 
 **Nombre del proyecto:** Figuras en Movimiento  
 **Autor:** Marina Cossio  
-**Asignatura:** Pensamiento Computacional  
 
 ### Descripción general
 
