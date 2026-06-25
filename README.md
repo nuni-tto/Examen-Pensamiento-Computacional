@@ -207,17 +207,17 @@ Visualmente, el proyecto se relaciona con imágenes generativas, visualizaciones
 
 ### Capturas del proceso
 
-![Progreso1](Imagenesexamen/Referentes/0.5.png)
-![Progreso2](Imagenesexamen/Referentes/0.6.png)
-![Progreso3](Imagenesexamen/Referentes/1.png)
-![Progreso3.5](Imagenesexamen/Referentes/1.5.png)
-![Progreso4](Imagenesexamen/Referentes/2.png)
-![Progreso5](Imagenesexamen/Referentes/3.png)
-![Progreso6](Imagenesexamen/Referentes/4.png)
-![Progreso7](Imagenesexamen/Referentes/4.5.png)
-![Progreso8](Imagenesexamen/Referentes/5.png)
-![Progreso9](Imagenesexamen/Referentes/6.png)
-![Progreso10](Imagenesexamen/Referentes/7.png)
+![Progreso1](Imagenesexamen/Progreso/0.5.png)
+![Progreso2](Imagenesexamen/Progreso/0.6.png)
+![Progreso3](Imagenesexamen/Progreso/1.png)
+![Progreso3.5](Imagenesexamen/Progreso/1.5.png)
+![Progreso4](Imagenesexamen/Progreso/2.png)
+![Progreso5](Imagenesexamen/Progreso/3.png)
+![Progreso6](Imagenesexamen/Progreso/4.png)
+![Progreso7](Imagenesexamen/Progreso/4.5.png)
+![Progreso8](Imagenesexamen/Progreso/5.png)
+![Progreso9](Imagenesexamen/Progreso/6.png)
+![Progreso10](Imagenesexamen/Progreso/7.png)
 
 
 
