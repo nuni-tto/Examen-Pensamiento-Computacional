@@ -85,4 +85,7 @@ El referente visual principal es una estética digital basada en puntos, píxele
 
 Visualmente, el proyecto se relaciona con imágenes generativas, visualizaciones digitales y composiciones cinéticas donde una forma se construye a partir de unidades mínimas.
 
-
+![Referencia1](Imagenesexamen/Referentes/referente1.gif)
+![Referencia2](Imagenesexamen/Referentes/referente2.gif)
+![Referencia3](Imagenesexamen/Referentes/referente3.jpg)
+![Referencia4](Imagenesexamen/Referentes/referente4.mp4)
