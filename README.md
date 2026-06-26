@@ -147,7 +147,7 @@ El sistema genera los siguientes outputs:
 - Cambios de tamaño e intensidad.
 - Música de fondo.
 - Transiciones entre estados.
-- 
+  
 ## Explicación de la interacción
 
 ### Qué datos entran al sistema
